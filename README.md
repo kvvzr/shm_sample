@@ -20,7 +20,7 @@ $ cd antlr_sample
 $ antlr4 Java.g4 && javac Java*.java
 ```
 
-- Processingを起動して, antlr\_sampleを実行します.
+- Processingを起動して, shm_sampleを実行します.
 
 ## 追記
-- あとはProcessingのModeにして自動で変換->コンパイルみたいなのを作ればよいと思うので, @gutugutu3030 先輩, @3846masa, @mimorisuzuko あたりに任せたいと思います.
+- あとはProcessingのModeにして自動で変換->コンパイルみたいなのを作ればよいと思うので, @gutugutu3030 先輩, @3846masa, @[censored] あたりに任せたいと思います.
